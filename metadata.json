@@ -1,0 +1,5 @@
+{
+  "name": "企业利润与税费计算器",
+  "description": "根据采购和销售金额，自动计算增值税、企业税、地方税及最终纯利润。",
+  "requestFramePermissions": []
+}
